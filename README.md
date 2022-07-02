@@ -32,6 +32,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/xunfeng1980/xunfeng1980/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![github contribution grid snake animation](https://raw.githubusercontent.com/xunfeng1980/xunfeng1980/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/xunfeng1980/xunfeng1980/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 ###
